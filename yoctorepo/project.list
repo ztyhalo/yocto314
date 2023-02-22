@@ -1,0 +1,9 @@
+sources/base
+sources/meta-browser
+sources/meta-fsl-arm
+sources/meta-fsl-arm-extra
+sources/meta-fsl-bsp-release
+sources/meta-fsl-demos
+sources/meta-openembedded
+sources/meta-qt5
+sources/poky

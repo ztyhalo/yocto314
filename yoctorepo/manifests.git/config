@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[remote "origin"]
+	url = https://gitee.com/haining216/fsl-arm-yocto-bsp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "default"]
+	remote = origin
+	merge = nxp/imx-3.14.28-1.0.0_ga
