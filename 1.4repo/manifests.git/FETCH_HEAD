@@ -1,0 +1,19 @@
+1e687a474cf639a15a1f7558f6525992ebab2bd2		branch 'imx-android-10' of https://source.codeaurora.org/external/imx/imx-manifest
+eb108b54c8552b6ed3c0ddb1627e60f6aa61ac97		branch 'imx-android-11' of https://source.codeaurora.org/external/imx/imx-manifest
+ce7799e99b2e3d819c2a82f01161ce51132fda19		branch 'imx-android-oreo' of https://source.codeaurora.org/external/imx/imx-manifest
+fefe7fd83e0f93d9abfd2017b17a39315d14addb		branch 'imx-android-pie' of https://source.codeaurora.org/external/imx/imx-manifest
+f83aa318a79dc2019dcd0f37455a45bd53aa8e5f		branch 'imx-linux-gatesgarth' of https://source.codeaurora.org/external/imx/imx-manifest
+a9ff50d0085e4887575bf9e42c3063cd4341f1cb		branch 'imx-linux-hardknott' of https://source.codeaurora.org/external/imx/imx-manifest
+3767fba5334a69d7266cc11026c74261bd7cd3f0		branch 'imx-linux-morty' of https://source.codeaurora.org/external/imx/imx-manifest
+6f48623e7567163dcb93c0db18fb2b5670ba4e82		branch 'imx-linux-rocko' of https://source.codeaurora.org/external/imx/imx-manifest
+fe4e6c4d9381eac4b4aac6addfe338824004c833		branch 'imx-linux-sumo' of https://source.codeaurora.org/external/imx/imx-manifest
+4711048bed05d61c6a2e2ebadfede9dcff6f840f		branch 'imx-linux-thud' of https://source.codeaurora.org/external/imx/imx-manifest
+c0b0c63811ac93d6de844654b4e53994b6488cab		branch 'imx-linux-warrior' of https://source.codeaurora.org/external/imx/imx-manifest
+a5b652bfa76e032bda748d5bcd998d6cdf3c1e0c		branch 'imx-linux-zeus' of https://source.codeaurora.org/external/imx/imx-manifest
+5fa2274063e3a231e277d558012b6088838eb453		branch 'master' of https://source.codeaurora.org/external/imx/imx-manifest
+a02b4861351430e7ad08a99c36001849cbae2491	not-for-merge	tag 'ecockpit_android_caf_06_02' of https://source.codeaurora.org/external/imx/imx-manifest
+86468539b2ee70d96e061c72126004d77b1583c8	not-for-merge	tag 'ecockpit_android_caf_07_01' of https://source.codeaurora.org/external/imx/imx-manifest
+21efd30355e7c556330e5281abb7b266e0f3a4ca	not-for-merge	tag 'ecockpit_caf_06_02' of https://source.codeaurora.org/external/imx/imx-manifest
+37ea7b28f59bf0396e7ff03e90db371298134f7a	not-for-merge	tag 'ecockpit_caf_07_00' of https://source.codeaurora.org/external/imx/imx-manifest
+ee5c9ad9dbc5768b8948fa10e294d57da373cb6f	not-for-merge	tag 'ecockpit_caf_07_01' of https://source.codeaurora.org/external/imx/imx-manifest
+d38533b858cfc4e6c51b13fe72588d718386ab3d	not-for-merge	tag 'rel_imx_4.9.51_8qm_beta1' of https://source.codeaurora.org/external/imx/imx-manifest

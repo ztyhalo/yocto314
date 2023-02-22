@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 28f3bca98120d52a5ca6159ab44d2cf2db66b74c ztyhalo <ztyswa@163.com> 1642321042 +0800	fetch /media/z/f080af15-ca5b-433d-a6a7-9549a87654dc/home/z/imx6/warrior/.repo/manifests.git/clone.bundle +refs/heads/*:refs/remotes/origin/* refs/tags/*:refs/tags/*: storing head
+28f3bca98120d52a5ca6159ab44d2cf2db66b74c f83aa318a79dc2019dcd0f37455a45bd53aa8e5f ztyhalo <ztyswa@163.com> 1642321043 +0800	fetch origin --tags +refs/heads/*:refs/remotes/origin/*: fast-forward

@@ -1,0 +1,11 @@
+sources/base
+sources/meta-browser
+sources/meta-freescale
+sources/meta-freescale-3rdparty
+sources/meta-freescale-distro
+sources/meta-fsl-bsp-release
+sources/meta-openembedded
+sources/meta-qt5
+sources/meta-rust
+sources/meta-timesys
+sources/poky
